@@ -6,6 +6,8 @@ The aim of this exercise is to design and implement a multi-graph ADT and to use
 
 A key requirement is that both the design and implementation decouple the multigraph ADT from the rest of the system.
 
+The program implements Breadth-first search for providing the directions.
+
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-laboratory-in-software-engineering-fall-2005/assignments/ps4.pdf
 
 ## How to use it
