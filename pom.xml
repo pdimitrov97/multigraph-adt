@@ -36,7 +36,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.github.pdimitrov97.lsb_steganography.Main</mainClass>
+							<mainClass>com.github.pdimitrov97.multigraph_adt.BostonMetroApp</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
